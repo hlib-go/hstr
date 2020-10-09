@@ -1,3 +1,3 @@
-module htr
+module hstr
 
 go 1.14
